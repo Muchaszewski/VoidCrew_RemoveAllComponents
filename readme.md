@@ -4,6 +4,8 @@ Now you will be able to dismantle your ship components from any ships and put ne
 Started with broadside but want to switch frontal only? No problem! Want to upgrade your Benedict Mk1 to Mk2? 
 No problem! Want to remove all components from your ship and start from scratch? No problem!
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muchaszewski)
+
 ![thumbnail.png](thumbnail.png)
 
 ## Licence
