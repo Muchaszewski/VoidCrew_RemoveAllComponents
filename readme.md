@@ -16,7 +16,7 @@ TLDR: You can use this mod in your modpack, but you can't sell it or claim it as
 ## How to use
 1. Install the BepInEx 5 mod loader (https://github.com/BepInEx/BepInEx/releases)
 2. Run the game once to install BepInEx
-3. Download the latest release of this mod from
+3. Download the latest release of this mod from (https://github.com/Muchaszewski/VoidCrew_RemoveAllComponents/releases)
 4. Extract the zip file into the `BepInEx/plugins` folder
 5. Run the game
 6. Enjoy!
